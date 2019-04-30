@@ -17,3 +17,5 @@ let multiply = var1 * var2
 let ageIsValid = Number.isInteger(currentAge)
 
 let randomNumber = Math.random() * 20 + 1
+
+let randomInteger = Math.floor(Math.random())
